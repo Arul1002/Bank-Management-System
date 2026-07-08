@@ -46,7 +46,3 @@ Future Enhancements
 * Loan Management
 * Interest Calculation
 * Account Statement Export (PDF/Excel)
-
-* 
-
-If you find this project useful, feel free to ⭐ the repository and contribute by submitting issues or pull requests.
